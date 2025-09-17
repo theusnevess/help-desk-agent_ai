@@ -1,0 +1,23 @@
+# Ignorar arquivos de ambiente e credenciais
+.env
+*.env
+
+# Cache do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Diretórios comuns de IDEs
+.vscode/
+.idea/
+
+# Arquivos de sistema (Windows/Mac)
+.DS_Store
+Thumbs.db
